@@ -1,0 +1,93 @@
+{
+    "Header": {
+
+        "title": "Farnovfa Page",
+        "paragraph": "Hallo selamat datang, ini adalah personal page dari Fariz Noval Fauzi."
+
+    },
+    "About": {
+        "paragraph": "Perkenalkan nama saya Fariz Noval Fauzi, orang-orang biasa memanggil saya dengan sebutan Fariz atau Riz. Saya asal Karawang lulusan tahun 2020 di SMAN 1 Rengasdengklok jurusan IPA. Saya adalah mahasiswa Teknik Informatika di Politeknik Pos Indonesia. Saya lahir pada tanggal 20 September 2001 di Karawang. Kuning adalah warna favorit saya, karena warna kuning terlihat cerah dan bersih. Saya senang menulis cerita bahkan saya punya cerita yang sedang saya garaf untuk diterbitkan nantinya.",
+        "Why": [
+            "Menonton YouTube",
+            "Menulis",
+            "Menonton Blackpink",
+            "Bersepeda"
+        ],
+        "Why2": [
+            "Berkemah",
+            "Bermain Game Online",
+            "Mengedit Video",
+            "Menggambar"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-user",
+            "name": "OSIS",
+            "text": "Sebagai Ketua Sekbid Dua"
+        },
+        {
+            "icon": "fa fa-tree",
+            "name": "PRAMUKA",
+            "text": "Sebagai Ketua atau Pradana"
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpeg",
+            "text": "\"Allow yourself to be sad. Relish in disappointment. Give room for it to linger for a while. Then from it, grow and find new positive energy to harness.\"",
+            "name": "Maudy Ayunda"
+        },
+        {
+            "img": "img/testimonials/02.jpeg",
+            "text": "\"Tidak ada yang abadi, baik bahagia maupun luka. Suatu saat kita akan tiba di titik menertawakan rasa yang dulu sakit, atau menangisi rasa yang dulu indah.\"",
+            "name": "Fiersa Besari"
+        },
+        {
+            "img": "img/testimonials/03.jpeg",
+            "text": "\"Aku ikhlaskan banyak hal di sini. Karena aku tahu, dalam ikhlas, kita akan mendapatkan yang terbaik.\"",
+            "name": "Yuki Kato"
+        },
+        {
+            "img": "img/testimonials/04.jpeg",
+            "text": "\"Jika kamu terburu-buru untuk sampai ke depan, kamu akan kehilangan banyak hal-hal penting.\"",
+            "name": "Do Kyung Soo"
+        },
+        {
+            "img": "img/testimonials/05.jpeg",
+            "text": "\"Don't feel like things are going too fast or too slow, because there is time for everyone.\"",
+            "name": "Blackpink"
+        },
+        {
+            "img": "img/testimonials/06.jpeg",
+            "text": "\"Rrrr Rrrr Rrrr (ngk bisa ngomong)\"",
+            "name": "Nezuko Kamado"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/pusut1.jpeg",
+            "name": "SDN Pusakajaya Utara 1",
+            "job": ""
+        },
+        {
+            "img": "img/team/smp2.jpeg",
+            "name": "SMPN 2 Pedes",
+            "job": ""
+        }, {
+            "img": "img/team/gandok1.jpeg",
+            "name": "SMAN 1 Rengasdengklok",
+            "job": "IPA"
+        },
+        {
+            "img": "img/team/poltekpos.jpeg",
+            "name": "Politeknik Pos Indonesia",
+            "job": "D4 Teknik Informatika"
+        }
+    ],
+    "Contact": {
+        "address": "41353 Sumberjati, Pusakajaya Selatan, Cilebar, Karawang. ",
+        "phone": "+62 812 9382 1170",
+        "email": "novalfauzi66@gmail.com",
+        "facebook": "https://web.facebook.com/FARNOVFA.20",
+        "twitter": "https://twitter.com/fnf____",
+        "instagram": "https://www.instagram.com/fariznovalfauzi/"
+    }
+}
